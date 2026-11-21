@@ -67,6 +67,8 @@ Les relations entre les entités sont les suivantes :
 - Une formation peut accueillir plusieurs étudiants.
 - Chaque étudiant est rattaché à une seule formation.
 - <img width="1322" height="677" alt="image" src="https://github.com/user-attachments/assets/1748331d-e148-451a-bc36-26bb10b68503" />
+<img width="796" height="515" alt="image" src="https://github.com/user-attachments/assets/bed49a44-27b0-47ba-9187-e0dbab6db0ac" />
+
 
 
 # 4. Création de la base de données
