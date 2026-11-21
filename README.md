@@ -42,7 +42,9 @@ Attributs utilisés :
 - titre : titre de la formation.
 - prix : prix de la formation.
 - <img width="1351" height="683" alt="image" src="https://github.com/user-attachments/assets/5a8fd9f5-0513-47fb-af96-dc3883927f90" />
-<img width="1157" height="259" alt="image" src="https://github.com/user-attachments/assets/ad73a7fd-898e-4a79-b840-e5a70a0973f7" />
+<img width="921" height="258" alt="image" src="https://github.com/user-attachments/assets/c4e7f441-5e15-4885-8035-4bdb91b8e1f2" />
+<img width="1359" height="644" alt="image" src="https://github.com/user-attachments/assets/f26a2036-210e-494a-9c7a-aa9e354583ec" />
+
 
 
 **3.2. Module**
@@ -55,7 +57,9 @@ Attributs utilisés :
 - Formations_id : clé étrangère qui référence une formation.
 
 <img width="1366" height="574" alt="image" src="https://github.com/user-attachments/assets/d6605d16-b24d-4458-b69b-584bf44c7417" />
-<img width="1238" height="241" alt="image" src="https://github.com/user-attachments/assets/f63a4a62-d13d-4448-9cb3-3262b468c8b2" />
+<img width="700" height="312" alt="image" src="https://github.com/user-attachments/assets/d1bfe181-13a4-47d0-b8ba-3ecf86c298c2" />
+
+<img width="1308" height="477" alt="image" src="https://github.com/user-attachments/assets/ebc4ce2c-3cfc-41a0-8196-5f0173e1f031" />
 
 **3.3. Étudiant**
 
@@ -67,7 +71,9 @@ Les relations entre les entités sont les suivantes :
 - Une formation peut accueillir plusieurs étudiants.
 - Chaque étudiant est rattaché à une seule formation.
 - <img width="1322" height="677" alt="image" src="https://github.com/user-attachments/assets/1748331d-e148-451a-bc36-26bb10b68503" />
-<img width="796" height="515" alt="image" src="https://github.com/user-attachments/assets/bed49a44-27b0-47ba-9187-e0dbab6db0ac" />
+<img width="776" height="345" alt="image" src="https://github.com/user-attachments/assets/4173dae0-ca31-4996-9aa8-7f59c6da0e85" />
+<img width="1310" height="571" alt="image" src="https://github.com/user-attachments/assets/cbfc43b2-ada8-4b87-9f18-20b42f611b58" />
+
 
 
 
